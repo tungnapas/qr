@@ -10,8 +10,7 @@
 				"title":{
 					"type": "image",
 					"style": {
-						"width": "94",
-						"height": "27"
+						"height": "35"
 					},
 					"url": "https://raw.githubusercontent.com/tungnapas/qr/master/napas_icon.png"
 				}
