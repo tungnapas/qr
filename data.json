@@ -24,7 +24,7 @@
 						"url": "https://raw.githubusercontent.com/tungnapas/qr/master/data.json"
 					  }, {
 						"image": "https://raw.githubusercontent.com/tungnapas/qr/master/qr-code.png",
-						"text": "Scan",
+						"text": "QRPay",
 						"style": {
 						  "height": "21"
 						},
@@ -35,21 +35,21 @@
 						"style": {
 						  "height": "21"
 						},
-						"url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
+						"url": "https://raw.githubusercontent.com/tungnapas/qr/master/data.json"
 					  }, {
 						"image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/messages.png",
 						"text": "Messages",
 						"style": {
 						  "height": "21"
 						},
-						"url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
+						"url": "https://raw.githubusercontent.com/tungnapas/qr/master/data.json"
 					  }, {
 						"image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/me.png",
 						"text": "Me",
 						"style": {
 						  "height": "21"
 						},
-						"url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
+						"url": "https://raw.githubusercontent.com/tungnapas/qr/master/data.json"
 					  }]
 				}
 			}
