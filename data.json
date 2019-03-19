@@ -51,6 +51,26 @@
 						"url": "https://raw.githubusercontent.com/tungnapas/qr/master/data.json"
 					  }]
 				}
+			},
+			"sections": {
+				"textfield": {
+					"name": "username",
+					"placeholder": "Username",
+					"style": {
+					  "background": "#ffffff",
+					  "color": "#ff0000",
+					  "color:placeholder": "#ebebeb"
+					}
+				},
+				"textfield": {
+					"name": "password",
+					"placeholder": "Password",
+					"style": {
+					  "background": "#ffffff",
+					  "color": "#ff0000",
+					  "color:placeholder": "#ebebeb"
+					}
+				}
 			}
 			
 		}
