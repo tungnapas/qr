@@ -30,15 +30,8 @@
 						},
 						"url": "https://raw.githubusercontent.com/tungnapas/qr/master/data.json"
 					  }, {
-						"image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/moments.png",
-						"text": "Moments",
-						"style": {
-						  "height": "21"
-						},
-						"url": "https://raw.githubusercontent.com/tungnapas/qr/master/data.json"
-					  }, {
-						"image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/messages.png",
-						"text": "Messages",
+						"image": "https://raw.githubusercontent.com/tungnapas/qr/master/transaction.png",
+						"text": "Transactions",
 						"style": {
 						  "height": "21"
 						},
