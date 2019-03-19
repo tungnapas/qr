@@ -1,0 +1,38 @@
+{
+	"$jason":{
+		"head":{
+			"title":"QRCode Simulator",
+			"description":"Application for testing QR service",
+			"icon":"https://raw.githubusercontent.com/tungnapas/qr/master/qr-code.png"
+		},
+		"body":{
+			"header":{
+				"title":"QRCode Simulator"
+			},
+			"sections":{
+				"items":[
+					{
+						"type":"label",
+						"text":"Username"
+					}
+				]
+			},
+			"footer":{
+				"tabs": {
+					"style": {
+						"background": "rgba(255,255,255,0.8)",
+						"color": "#009efa"
+					},
+					"items": [{
+						"image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/home.png",
+						"text": "Home",
+						"style": {
+						  "height": "21"
+						},
+						"url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
+					},
+				}
+			}
+		}
+	}
+}
