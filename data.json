@@ -23,8 +23,8 @@
 						},
 						"url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
 					  }, {
-						"image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/notifications.png",
-						"text": "Notifications",
+						"image": "https://raw.githubusercontent.com/tungnapas/qr/master/qr-code.png",
+						"text": "Scan",
 						"style": {
 						  "height": "21"
 						},
