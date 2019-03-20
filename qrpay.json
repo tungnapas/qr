@@ -51,6 +51,13 @@
 						"url": "https://raw.githubusercontent.com/tungnapas/qr/master/data.json"
 					  }]
 				}
+			},
+			"background": {
+				"type": "html",
+				"url": "https://www.google.com",
+				"action": {
+					"type": "$default"
+				}
 			}
 		}
 	}
