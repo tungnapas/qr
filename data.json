@@ -55,18 +55,6 @@
 			"sections": [{
 				"items": [
 					{
-						"type": "vertical",
-						"components": [{
-						  "type": "label",
-						  "text": "John Doe"
-						}, {
-						  "type": "label",
-						  "text": "33"
-						}, {
-						  "type": "label",
-						  "text": "A normal guy with a normal name"
-						}]
-					},{
 						"type":"html",
 						"style":{
 							"height":"300"
