@@ -52,23 +52,23 @@
 					  }]
 				}
 			},
-			"sections": [
-			{
+			"sections": [{
 				"items": [
-				{
-					"textfield": {
-						"name": "username",
-						"placeholder": "Username",
-						"style": {
-						  "background": "#ffffff",
-						  "color": "#ff0000",
-						  "color:placeholder": "#ebebeb"
-						}
+					{
+						"type": "vertical",
+						"components": [{
+						  "type": "label",
+						  "text": "John Doe"
+						}, {
+						  "type": "label",
+						  "text": "33"
+						}, {
+						  "type": "label",
+						  "text": "A normal guy with a normal name"
+						}]
 					}
-				}
-				]				
-			}
-			]
+				]
+			}]
 			
 		}
 	}
