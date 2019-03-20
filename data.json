@@ -66,6 +66,12 @@
 						  "type": "label",
 						  "text": "A normal guy with a normal name"
 						}]
+					},{
+						"type":"html",
+						"style":{
+							"height":"300)
+						},
+						"text":"<html><head><title>test</title></head><body><h1>Le Thanh Tung</h1></body></html>"
 					}
 				]
 			}]
