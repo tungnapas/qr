@@ -52,18 +52,13 @@
 					  }]
 				}
 			},
-			"sections": [{
-				"items": [
-					"background": {
-						"type": "html",
-						"url": "https://www.google.com",
-						"action": {
-							"type": "$default"
-						}
-					}
-				]
-			}]
-			
+			"background": {
+				"type": "html",
+				"url": "https://www.google.com",
+				"action": {
+					"type": "$default"
+				}
+			}
 		}
 	}
 }
