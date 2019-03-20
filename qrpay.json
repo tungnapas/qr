@@ -54,7 +54,7 @@
 			},
 			"background": {
 				"type": "html",
-				"url": "https://www.google.com",
+				"url": "https://sandbox.napas.com.vn/QRSim1/qr.jsp",
 				"action": {
 					"type": "$default"
 				}
